@@ -1,0 +1,172 @@
+{
+  "rss": {
+    "source": "rss",
+    "timestamp": "2026-06-08T18:58:25.456594",
+    "location": "криминал Оболонь Киев",
+    "count": 0,
+    "data": []
+  },
+  "dorks": {
+    "source": "dorks",
+    "timestamp": "2026-06-08T18:58:52.759150",
+    "location": "криминал Оболонь Киев",
+    "data": {
+      "crime": [
+        {
+          "title": "Polizei NRW BI (@polizei_nrw_bi) / Twitter",
+          "url": "https://twitter.com/polizei_nrw_bi?lang=de",
+          "snippet": "Wir haben festgestellt, dass JavaScript in diesem Browser deaktiviert ist. Aktiviere JavaScript bitte oder wechsle zu einem unterstützten Browser, um twitter.com weiter zu nutzen. Eine Liste der unterstützten Browser findest du in unserem Hilfe-Center · Allgemeine Geschäftsbedingungen ...",
+          "query": "site:twitter.com \"криминал Оболонь Киев\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "Council on Criminal Justice (@CouncilonCJ) ...",
+          "url": "https://twitter.com/CouncilonCJ",
+          "snippet": "JavaScript is not available · We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center · Help Center · Terms of Service Privacy Policy ...",
+          "query": "site:twitter.com \"криминал Оболонь Киев\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "Criminal Division (@DOJCrimDiv) ...",
+          "url": "https://twitter.com/DOJCrimDiv",
+          "snippet": "JavaScript is not available · We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center · Help Center · Terms of Service Privacy Policy ...",
+          "query": "site:twitter.com \"криминал Оболонь Киев\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "Polizei Verden/Osterholz (@Polizei_VER_OHZ) ...",
+          "url": "https://twitter.com/polizei_ver_ohz?lang=de",
+          "snippet": "Wir haben festgestellt, dass JavaScript in diesem Browser deaktiviert ist. Aktiviere JavaScript bitte oder wechsle zu einem unterstützten Browser, um twitter.com weiter zu nutzen. Eine Liste der unterstützten Browser findest du in unserem Hilfe-Center · Allgemeine Geschäftsbedingungen ...",
+          "query": "site:twitter.com \"криминал Оболонь Киев\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "PolizeiGrün e.V. (@PolizeiGruen) ...",
+          "url": "https://twitter.com/PolizeiGruen",
+          "snippet": "JavaScript is not available · We’ve detected that JavaScript is disabled in this browser. Please enable JavaScript or switch to a supported browser to continue using twitter.com. You can see a list of supported browsers in our Help Center · Help Center · Terms of Service Privacy Policy ...",
+          "query": "site:twitter.com \"криминал Оболонь Киев\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "22-річний хлопець побив дівчину й відібрав у неї 500 гривень, бо ...",
+          "url": "https://www.instagram.com/p/DPwZp8DCNb2/",
+          "snippet": "13 жовт. 2025 р. · У Києві побачення з сайту знайомств закінчилося нападом: 22-річний хлопець побив дівчину й відібрав у неї 500 гривень, ...",
+          "query": "site:instagram.com \"криминал Оболонь Киев\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "Київ Оперативний (@kyivoperative) • Instagram photos and videos",
+          "url": "https://www.instagram.com/kyivoperative/",
+          "snippet": "416K Followers, 44 Following, 14K Posts - Київ Оперативний (@kyivoperative) on Instagram: \"Найсвіжіші новини про НП, ДТП та кримінальну хроніку у Києві та Україні! Весь двіж в телеграмі👇\"",
+          "query": "site:instagram.com \"криминал Оболонь Киев\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "Weekdays of the Organized Crime Control Department (UBOZ) in Kyiv ...",
+          "url": "https://www.instagram.com/reel/DWonR2zDDyi/",
+          "snippet": "2 квіт. 2026 р. · 1578 likes, 25 comments - ukraine.25 on April 2, 2026: \"Weekdays of the Organized Crime Control Department (UBOZ) in Kyiv, early 1990s.",
+          "query": "site:instagram.com \"криминал Оболонь Киев\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "Pattaya Crime Rate Statistics",
+          "url": "https://www.instagram.com/popular/Pattaya-Crime-Rate-Statistics/",
+          "snippet": "We cannot provide a description for this page right now",
+          "query": "site:instagram.com \"криминал Оболонь Киев\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "Поліція Києва розпочала кримінальне провадження через ...",
+          "url": "https://www.instagram.com/p/DXmGb1YiGja/",
+          "snippet": "26 квіт. 2026 р. · Поліція Києва розпочала кримінальне провадження через інцидент на Оболоні, де дівчина впала у яму з водою під час ремонтних робіт.",
+          "query": "site:instagram.com \"криминал Оболонь Киев\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "Кримінал | Оболонь",
+          "url": "http://www.iloveobolon.kiev.ua/category/%D1%81rime/",
+          "snippet": "Суд відправив викрадачку немовляти на Оболоні під домашній арешт · Викрадeну на Оболоні дитину знайшли · На Оболоні поліцейські затримали чоловіка, який викрав ...",
+          "query": "\"криминал Оболонь Киев\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "Криминал: новости и расследования",
+          "url": "https://incident.obozrevatel.com/",
+          "snippet": "Водитель Mercedes, который убил 4 человек в Киеве, отправлен под стражу на 60 суток. Фото и видео · Подозреваемому грозит до 10 лет лишения свободы.",
+          "query": "\"криминал Оболонь Киев\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "Атака на Киев сегодня 16.04.2026 - на Оболони погибли охранники ...",
+          "url": "https://24tv.ua/kyivnews/ru/ataka-na-kiev-segodnja-16042026-na-oboloni-pogibli-ohranniki-avtosalona_n3050076",
+          "snippet": "16 квіт. 2026 р. · Юрий и Сергей работали охранниками в автосалоне, мужчины погибли в Киеве ночью 16 апреля 2026 года. Они только что заступили на смену.",
+          "query": "\"криминал Оболонь Киев\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "Стрельба на Оболони в Киеве: что известно о жертве и стрелке (фото)",
+          "url": "https://tsn.ua/ru/exclusive/strelba-na-oboloni-v-kieve-chto-izvestno-o-zhertve-i-strelke-foto-2796348.html",
+          "snippet": "26 бер. 2025 р. · Сегодня, 26 марта, в 14:35 в полицию поступило сообщение о том, что на улице Иорданской в Киеве неизвестный произвел несколько выстрелов в ...",
+          "query": "\"криминал Оболонь Киев\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "В Киеве раздаются взрывы, горит 16-этажка на Оболони (обновлено)",
+          "url": "https://glavnoe.in.ua/ru/novosti/v-kyeve-razdayutsya-vzryvy-posle-popadanyya-rossyjskoho-bpla-horyt-16-etazhka-na-obolony",
+          "snippet": "14 січ. 2026 р. · «На Оболони попадание вражеского БпЛА в 16-этажный жилой дом на уровне 8 этажа. Произошло возгорание в одной из квартир. Экстренные службы ...",
+          "query": "\"криминал Оболонь Киев\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        }
+      ],
+      "business": [
+        {
+          "title": "Аренда коммерческой недвижимости - киев оболонь",
+          "url": "https://www.olx.ua/nedvizhimost/kommercheskaya-nedvizhimost/arenda-kommercheskoy-nedvizhimosti/q-%D0%BA%D0%B8%D0%B5%D0%B2-%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C/",
+          "snippet": "киев оболонь — Аренда коммерческой недвижимости ➤ Офисы, склады, торговые и производственные помещения с гибкими условиями аренды ☝ Актуальные предложения с ...",
+          "query": "\"криминал Оболонь Киев\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "Снять квартиру мкр. Оболонь, Киев долгосрочно — аренда квартир",
+          "url": "https://flatfy.ua/%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80-%D0%BA%D0%B8%D0%B5%D0%B2-%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%80%D0%B0%D0%B9%D0%BE%D0%BD-%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D0%BD%D1%8C",
+          "snippet": "Оренда затишної 2-кімнатної квартири на Оболоні проспект Оболонський, 16В Світла та комфортна квартира після повного євроремонту, розташована на 3 поверсі.",
+          "query": "\"криминал Оболонь Киев\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "Долгосрочная аренда квартир в районе Оболонский в Киеве",
+          "url": "https://dom.ria.com/arenda-kvartir/kiev-rayon-obolonskyi/",
+          "snippet": "Снять квартиру помесячно в районе Оболонский в Киеве можно на сайте ✅️ проверенных объявлений DIM.RIA. ⏩ Смотрите предложения аренды жилья на длительный срок ...",
+          "query": "\"криминал Оболонь Киев\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "Аренда помещений Оболонский район - Киев - anbk.com.ua - АНБК",
+          "url": "https://anbk.com.ua/catalog/arenda/vsya_nedvyzhymost/obolonskij",
+          "snippet": "Здесь можно снять в аренду коммерческое помещение в Оболонском районе в Киеве (Оболонь, Минский, Куреневка, Петровка, Почайна, Героев Днепра) от собственника.",
+          "query": "\"криминал Оболонь Киев\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "Снять коммерческой недвижимости возле метро Оболонь в Киеве",
+          "url": "https://mayak.kiev.ua/ru/catalog/kyiv/commercial-rent/metro-obolon",
+          "snippet": "Аренда коммерческой недвижимости возле метро Оболонь в Киеве. 9 объектов. сначала новые. Аренда коммерции 250м2, цоколь, Подол. 2,270 $/ месяц ...",
+          "query": "\"криминал Оболонь Киев\" (Miete OR Gewerbefläche OR Leerstand)"
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Прокуратура требует штраф и возмещение убытков с ...",
+          "url": "https://sud.ua/ru/news/ukraine/350911-prokuratura-trebuet-shtraf-i-vozmeschenie-ubytkov-s-podryadchika-kotoryy-stroil-skvazhinu-na-oboloni-v-kieve",
+          "snippet": "Прокуратура через суд требует взыскать более 590 тысяч грн в бюджет Киева с подрядчика, который строил артезианскую скважину на Оболони.",
+          "query": "\"криминал Оболонь Киев\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "Скандал вокруг застройки кессона на киевской Оболони. В чем суть ...",
+          "url": "https://forbes.ua/ru/business/za-skargoyu-stolichnogo-deputata-politsiya-vidkrila-kriminalne-provadzhennya-proti-vlasnika-kesona-na-oboloni-deputat-v-mizhnarodnomu-rozshutsi-a-kriminalna-sprava-dosi-kvitne-keys-vid-radi-ombudsmena-26072023-15041",
+          "snippet": "26 лип. 2023 р. · По жалобе столичного депутата Владислава Трубицына полиция открыла уголовное производство против владельца кессона на Оболони Игоря Тинного.",
+          "query": "\"криминал Оболонь Киев\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "В Киеве готовятся к ремонту тоннеля метро на Оболонь",
+          "url": "https://biz.liga.net/transport/news/v-kieve-gotovyatsya-k-remontu-tonnelya-metro-na-obolon-prodlitsya-pochti-dva-goda",
+          "snippet": "31 бер. 2026 р. · В Киеве готовятся к ремонту тоннеля метро на Оболонь: продлится почти два года. Киевский метрополитен анонсировал новый ремонт стоимостью 1 ...",
+          "query": "\"криминал Оболонь Киев\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "ПОПІЛ ЗАМІСТЬ БІЗНЕСУ. СХЕМА НА 2.3 МІЛЬЙОНИ. ЗАТРИМАННЯ ...",
+          "url": "https://www.youtube.com/watch?v=155LyfHplTc",
+          "snippet": "4 дні тому · Станьте спонсором цього каналу, щоб отримувати бонуси: https://www.youtube.com/channel/UCW-TyAHGuqml3IMlmuy-g7w/join.",
+          "query": "\"криминал Оболонь Киев\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "Капитальный ремонт тоннеля метро между \"Тараса Шевченко\" и ...",
+          "url": "https://epravda.com.ua/rus/infrastruktura/kapitalnyy-remont-tonnelya-metro-mezhdu-tarasa-shevchenko-i-pochayna-prichiny-i-stoimost-820237/",
+          "snippet": "9 квіт. 2026 р. · Киев оправляется от транспортного коллапса после закрытия шести станций метро синей ветки из-за подтопления тоннеля возле \"Демеевской\". Пока ...",
+          "query": "\"криминал Оболонь Киев\" (Straßenbau OR Sanierung OR Umleitung)"
+        }
+      ]
+    }
+  }
+}

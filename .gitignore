@@ -1,0 +1,17 @@
+# Мусор Питона
+__pycache__/
+*.py[cod]
+venv/
+env/
+.venv/
+
+# Секреты (НИКОГДА не отправляй ключи!)
+.env
+*.key
+
+# Мусор системы и IDE
+.DS_Store
+.vscode/
+.idea/
+config.py
+config.py

@@ -1,0 +1,4 @@
+aiohttp==3.9.1
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+transliterate==1.10.2

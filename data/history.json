@@ -1,0 +1,34 @@
+[
+  {
+    "date": "2026-06-08T18:55:23.761795",
+    "file": "/home/sanya/geo_monitor/data/snapshot_20260608_1854.json",
+    "summary": {
+      "rss": 0,
+      "dorks": 30
+    }
+  },
+  {
+    "date": "2026-06-08T18:58:52.761405",
+    "file": "/home/sanya/geo_monitor/data/snapshot_20260608_1858.json",
+    "summary": {
+      "rss": 0,
+      "dorks": 25
+    }
+  },
+  {
+    "date": "2026-06-08T19:14:26.253244",
+    "file": "/home/sanya/geo_monitor/data/kyev_hrabezh_2026-06-08.json",
+    "summary": {
+      "rss": 0,
+      "dorks": 20
+    }
+  },
+  {
+    "date": "2026-06-08T19:16:25.656667",
+    "file": "/home/sanya/geo_monitor/data/kyev_hrabezh_2026-06-08.json",
+    "summary": {
+      "rss": 0,
+      "dorks": 20
+    }
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "rss": {
+    "source": "rss",
+    "timestamp": "2026-06-08T19:16:10.108617",
+    "location": "Киев грабеж",
+    "count": 0,
+    "data": []
+  },
+  "dorks": {
+    "source": "dorks",
+    "timestamp": "2026-06-08T19:16:25.655582",
+    "location": "Киев грабеж",
+    "data": {
+      "crime": [
+        {
+          "title": "Russian Embassy in Finland (@RussianEmbFinla) / Posts / X",
+          "url": "https://twitter.com/russianembfinla",
+          "snippet": "«Киевский неонацистский режим при поддержке стран-членов НАТО продолжает атаки ... То, что делает Еврокомиссия, — неприкрытый грабёж, и любые попытки ...",
+          "query": "site:twitter.com \"Киев грабеж\" (polizei OR polizey OR criminal OR grabizh OR napad)"
+        },
+        {
+          "title": "Artem Shevchenko (@Artem_Shewa) / Posts / X - Twitter",
+          "url": "https://twitter.com/artem_shewa?lang=de",
+          "snippet": "2 січ. 2026 р. · ... Киеву, Харькову и Одессе. Через 1418 дней боев российские войска ... грабеж и разбой – 16,3%, 4. тяжкие телесные – 8,3%, 5. убийства ...",
+          "query": "site:twitter.com \"Киев грабеж\" (polizei OR polizey OR criminal OR grabizh OR napad)"
+        },
+        {
+          "title": "Ольга Романова (@_orom) / Posts / X - Twitter",
+          "url": "https://twitter.com/_orom",
+          "snippet": "Photo — tonight in the Shevchenkivskyi District of Kyiv. Olena Rohoza's Image on X · 22. 52. 90. 6870 ·. Ольга Романова profile. Ольга Романова. _orom.",
+          "query": "site:twitter.com \"Киев грабеж\" (polizei OR polizey OR criminal OR grabizh OR napad)"
+        },
+        {
+          "title": "Новости Даунбасса (@daunbass) / Posts / X - Twitter",
+          "url": "https://twitter.com/daunbass?lang=gl",
+          "snippet": "... Kyiv, go to the combat zone and ask the soldiers in the trench whether they ... Обманывая преступников, заставляя их думать, что они имеют дело с ...",
+          "query": "site:twitter.com \"Киев грабеж\" (polizei OR polizey OR criminal OR grabizh OR napad)"
+        },
+        {
+          "title": "Diaspora UA (@diaspora_ua) / Posts / X - Twitter",
+          "url": "https://twitter.com/diaspora_ua",
+          "snippet": "Никаких грабежей. Только мирные собрания, требующие прекращения ... criminal complaint charging him with selling computer technology to Iranian ...",
+          "query": "site:twitter.com \"Киев грабеж\" (polizei OR polizey OR criminal OR grabizh OR napad)"
+        },
+        {
+          "title": "злочин: все новости по теме на сайте Киев24",
+          "url": "https://kyiv24.com/tag/zlochyn-ru/",
+          "snippet": "Подозреваемый ранее был осужден за наркопреступленияВ Киеве 32-летнего мужчину осудили на семь лет лишения свободы за грабеж пожилой женщины в столичном ...",
+          "query": "\"Киев грабеж\" (Polizeibericht OR Einbruch OR Vandalismus OR zlochyn)"
+        },
+        {
+          "title": "В Киеве пьяный мужчина совершил грабеж: полиция поймала ...",
+          "url": "https://www.stopcor.org/section-suspilstvo/news-u-kievi-pyanij-cholovik-skoiv-pograbuvannya-politsiya-spijmala-zlochintsya-14-12-2022.html",
+          "snippet": "14 груд. 2022 р. · Столичные патрульные задержали мужчину, причастного к совершению кражи на автозаправке. Об этом сообщили в патрульной полиции Киева. В Киеве ...",
+          "query": "\"Киев грабеж\" (Polizeibericht OR Einbruch OR Vandalismus OR zlochyn)"
+        },
+        {
+          "title": "Заявление о преступлении. Помощь в Открытии Уголовного дела",
+          "url": "https://www.advocate-bureau.com.ua/ru/kryminal/zayava-pro-zlochyn/",
+          "snippet": "Наши адвокаты помогут Вам открыть уголовное правонарушение путем подачи заявления о преступлении, а в случае отказа путем обжалования в порядке статьи 303 ...",
+          "query": "\"Киев грабеж\" (Polizeibericht OR Einbruch OR Vandalismus OR zlochyn)"
+        },
+        {
+          "title": "Страница 4 -",
+          "url": "https://sud.ua/ru/news/tags/zlochyn?page=4",
+          "snippet": "Здесь вы найдете актуальную информацию о преступных деяниях, расследованиях и судебных процессах, которые влияют на общество и правопорядок. Следите за ...",
+          "query": "\"Киев грабеж\" (Polizeibericht OR Einbruch OR Vandalismus OR zlochyn)"
+        },
+        {
+          "title": "Киевский \"квартирщик\" решил взорвать полицейских, когда его ...",
+          "url": "https://focus.ua/ukraine/630731-kievskij-kvartirnik-reshil-vzorvat-policejskih-kogda-ego-soobshnika-zaderzhali-video",
+          "snippet": "4 бер. 2024 р. · В Киеве поймали двух воров с опытом, которые специализируются на ограблениях квартир и магазинов. Тогда один из них достал гранату.",
+          "query": "\"Киев грабеж\" (Polizeibericht OR Einbruch OR Vandalismus OR zlochyn)"
+        }
+      ],
+      "business": [
+        {
+          "title": "Адвокат по грабежам Киев - Юридическая компания \"N.S. Group\"",
+          "url": "https://advockat.com.ua/advokat_po_ghrabiezham/",
+          "snippet": "... Киев. Грабеж квалифицируется по статье 186 Уголовного Кодекса Украины как открытое завладение чужим имуществом, за которое предусмотрена ответственность до ...",
+          "query": "\"Киев грабеж\" (Miete OR Gewerbefläche OR Leerstand OR orenda OR zakryttia)"
+        },
+        {
+          "title": "В Киеве задержали 21-летнего парня, который отобрал у ...",
+          "url": "https://devb.regionews.ua/rus/news/kiev/1780471320-v-kieve-zaderzhali-21-letnego-parnya-kotoryy-otobral-u-zhenshchiny-sumku-s-dengami",
+          "snippet": "5 днів тому · Киев грабеж злоумышленник задержание пенсионерка · Последние публикации ». 01 июня 2026. Оружие, нищета, боевой опыт: почему тема преступности ...",
+          "query": "\"Киев грабеж\" (Miete OR Gewerbefläche OR Leerstand OR orenda OR zakryttia)"
+        },
+        {
+          "title": "Проклятие и смерть немецким разбойникам! - LiveJournal",
+          "url": "https://0gnev.livejournal.com/721831.html",
+          "snippet": "2 черв. 2018 р. · Такова программа бандитов. Она вдохновляла разбойничью практику немецкой орды, ворвавшейся в Киев. Грабежи и нажива, насилия и убийства, ...",
+          "query": "\"Киев грабеж\" (Miete OR Gewerbefläche OR Leerstand OR orenda OR zakryttia)"
+        },
+        {
+          "title": "[PDF] правда",
+          "url": "http://opac.nekrasovka.ru/books/NEWSPAPERS/PRAVDA/1944/PRAVDA_1944_52.pdf",
+          "snippet": "ворвавшейся в Киев. Грабежи и нажива, жа. В расправах со своими жертвами палачи | уничтожено более 700 вражеских. Пинской области, напал на немецкий гар ...",
+          "query": "\"Киев грабеж\" (Miete OR Gewerbefläche OR Leerstand OR orenda OR zakryttia)"
+        },
+        {
+          "title": "[PDF] въ пользу щщавшъ отъ штшг! Бр. А. и Я. Алыдвангъ. ГЕТЕРА ЛАИОА ...",
+          "url": "https://elfiles.emis.ge/uploads/24604/Kavkaz_1909_N014.pdf",
+          "snippet": "учения совершать въ Киеве грабежи, раз- бои, «кспроприации и вымогательства де- вегъ. Цачаламъ втого учения не противоречи- ла • сами» обиковвниыя мош ...",
+          "query": "\"Киев грабеж\" (Miete OR Gewerbefläche OR Leerstand OR orenda OR zakryttia)"
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Рембуд: Строительство в Киеве",
+          "url": "https://rembud.kiev.ua/",
+          "snippet": "Строительные и ремонтные услуги в Киеве и области. Фасадные работы, кладка, монолитные работы, штукатурка, аренда строительной техники, кровельные работы.",
+          "query": "\"Киев грабеж\" (Straßenbau OR Sanierung OR Umleitung OR budivnytstvo OR remount)"
+        },
+        {
+          "title": "Демонтажная компания №1 в Киеве (096) 058-80-02; (050) 831-49-01",
+          "url": "https://demontag-1.kiev.ua/ru",
+          "snippet": "Услуги демонтажа, алмазной резки и бурения отверстий алмазным оборудованием по самым низким ценам в городе Киеве.",
+          "query": "\"Киев грабеж\" (Straßenbau OR Sanierung OR Umleitung OR budivnytstvo OR remount)"
+        },
+        {
+          "title": "Код ЕГРПОУ 40329324 - тов \"бк \"рембудмонтаж\" - YouControl",
+          "url": "https://youcontrol.com.ua/ru/catalog/company_details/40329324/",
+          "snippet": "Юридична особа ТОВ \"БК \"РЕМБУДМОНТАЖ\", код ЄДРПОУ 40329324, було зареєстровано 09.03.2016. Розмір статутного капіталу юридичної особи складає 2 000,00. На ...",
+          "query": "\"Киев грабеж\" (Straßenbau OR Sanierung OR Umleitung OR budivnytstvo OR remount)"
+        },
+        {
+          "title": "Демонтажные работы в Киеве | Демонтаж стен - Грузчики Киев",
+          "url": "https://move-team.com.ua/raboty/demontazhnye-raboty.html",
+          "snippet": "Наша компания выполнит демонтажные работы Киев с профессиональной техникой и всеми необходимыми разрешающими документами. Не стоит забывать про подготовку ...",
+          "query": "\"Киев грабеж\" (Straßenbau OR Sanierung OR Umleitung OR budivnytstvo OR remount)"
+        },
+        {
+          "title": "Демонтажные и строительные работы - ТОВ МонтажБудЮг",
+          "url": "https://mby.org.ua/ru/",
+          "snippet": "Компания предлагает широкий спектр услуг по демонтажу и сносу зданий любой сложности. Мы обеспечиваем комплексное решение поставленных задач! НАШИ ПРЕИМУЩЕСТВА.",
+          "query": "\"Киев грабеж\" (Straßenbau OR Sanierung OR Umleitung OR budivnytstvo OR remount)"
+        }
+      ]
+    }
+  }
+}

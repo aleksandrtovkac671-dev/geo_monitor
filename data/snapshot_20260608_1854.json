@@ -1,0 +1,202 @@
+{
+  "rss": {
+    "source": "rss",
+    "timestamp": "2026-06-08T18:54:57.422994",
+    "location": "Karlsplatz, München",
+    "count": 0,
+    "data": []
+  },
+  "dorks": {
+    "source": "dorks",
+    "timestamp": "2026-06-08T18:55:23.759787",
+    "location": "Karlsplatz, München",
+    "data": {
+      "crime": [
+        {
+          "title": "Polizei München (@PolizeiMuenchen) / Posts / X",
+          "url": "https://twitter.com/PolizeiMuenchen",
+          "snippet": "Wie bereits berichtet kam es am 31.01.2026 zu einem Tötungsdelikt in der Sonnenstraße in der Münchner Altstadt. Im Zuge der weiteren Ermittlungen konnte ...",
+          "query": "site:twitter.com \"Karlsplatz, München\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "Polizeiwissenschaft (@Polizei_Wiss) | Twitter",
+          "url": "https://twitter.com/polizei_wiss?lang=en",
+          "snippet": "Are you sure you want to view these Tweets? Viewing Tweets won't unblock @Polizei_Wiss Yes, view profile ... In unserem Forschungsprojekt \"Flucht als Sicherheitsproblem\" sind bereits mehrere Papers entstanden, zuletzt zu \"Sicherheitsempfinden, Kriminalitätsfurcht und die 'Angst vor dem Fremden'\".",
+          "query": "site:twitter.com \"Karlsplatz, München\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "NAFO Gershom 🏳️‍ (@NAFOGershom) / Posts / X",
+          "url": "https://twitter.com/NAFOGershom",
+          "snippet": "Wir berichten heute live über die Proteste rund um die Münchner Sicherheitskonferenz in München. Folge dem Link zur Live-Übertragung: youtube.com/live/ ...",
+          "query": "site:twitter.com \"Karlsplatz, München\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "Sebastian Kück (@SebastianKueck) / Posts / X - Twitter",
+          "url": "https://twitter.com/sebastiankueck?lang=cs",
+          "snippet": "Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz. Grund hierfür ist ein Feuerwehreinsatz am Hauptbahnhof (Tief). s-bahn-muenchen.",
+          "query": "site:twitter.com \"Karlsplatz, München\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "Thomas Krügl (@TKrueglMuenchen) / Posts / X - Twitter",
+          "url": "https://twitter.com/tkrueglmuenchen",
+          "snippet": "Polizei München profile. Polizei München. ✓. PolizeiMuenchen. Jun 2. Es ist wieder #Sommer in der Stadt! #München · Polizei München's Image on X. 11. 22. 249.",
+          "query": "site:twitter.com \"Karlsplatz, München\" (polizei OR kriminalität OR überfall)"
+        },
+        {
+          "title": "گاهی تبدیل می‌شود به راهی برای کنار هم ایستادن، برای شنیده شدن و برای ...",
+          "url": "https://www.instagram.com/reel/DZMooFeM0Dk/",
+          "snippet": "3 дні тому · این شنبه در Karlsplatz München دور هم جمع می‌شویم تا صدای مردم ایران باشیم؛ برای توقف اعدام‌ها، برای اینترنت آزاد و برای آزادی ایران. در کنار ...",
+          "query": "site:instagram.com \"Karlsplatz, München\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "Munich Crime Rate",
+          "url": "https://www.instagram.com/popular/munich-crime-rate/",
+          "snippet": "We cannot provide a description for this page right now",
+          "query": "site:instagram.com \"Karlsplatz, München\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "78 Jahre nach der Nakba kämpfen die Palästinenserinnen ... - Instagram",
+          "url": "https://www.instagram.com/p/DWo3jgRD1Pq/",
+          "snippet": "2 квіт. 2026 р. · ... KARLSPLATZ MÜNCHEN STACHUS PALASTINA SPRICHT فلسطينبتحكى ينبتحكي فلسطين MUNICH SAFOR ロ . ... PALESTINIANS only CRIME is to EXIST GAZA DAS ...",
+          "query": "site:instagram.com \"Karlsplatz, München\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "India's most unsafe cities ranked by cr!mes reported per ...",
+          "url": "https://www.instagram.com/p/DYUnIBmR_HE/",
+          "snippet": "We cannot provide a description for this page right now",
+          "query": "site:instagram.com \"Karlsplatz, München\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "هم‌زمان با فراخوان سراسری رضا پهلوی، ما ایرانیان مونیخ نیز در اعتراض به قطع ...",
+          "url": "https://www.instagram.com/p/DYB-EiJiNdN/",
+          "snippet": "7 трав. 2026 р. · ... Karlsplatz – München ⏰ از ساعت ۱۳:۰۰ برای صدای زندانیان، برای اینترنت آزاد، برای ایران. #NoInternetInIran #Iran #Munich #نه_به_اعدام ...",
+          "query": "site:instagram.com \"Karlsplatz, München\" (dangerous OR unsafe OR crime)"
+        },
+        {
+          "title": "München: Polizeieinsatz am Stachus: Passanten mit Pyrotechnik attackiert",
+          "url": "https://www.tz.de/muenchen/stadt/muenchen-stachus-polizei-einsatz-pyrotechnik-passanten-news-91269294.html",
+          "snippet": "31 січ. 2022 р. · Stachus Karlsplatz München. Am Stachus wurden am Wochenende mehrere Passanten attackiert. ... Laut Polizeibericht alarmierten Zeugen gegen ...",
+          "query": "\"Karlsplatz, München\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "Aufsperrdienst Karlsplatz München Stachus 55 € Festpreis",
+          "url": "https://www.089-schluesseldienst.com/karlsplatz-stachus/",
+          "snippet": "Aufsperrdienst Karlsplatz München Stachus Schlüsselnotdienst München hilft schnell, sachgerecht und günstig mit Festpreisgarantie 55 Festpreis.",
+          "query": "\"Karlsplatz, München\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "München: Hop-On/Hop-Off-Tour mit dem Big Bus im offenen Bus",
+          "url": "https://www.getyourguide.com/de-de/munchen-l26/munchen-hop-onhop-off-tour-mit-dem-big-bus-im-offenen-bus-t1767/",
+          "snippet": "Починаючи від 31,31 USD Оцінка 4,0(1 175)München: Hop-On/Hop-Off-Tour mit dem Big Bus im offenen Bus · Startpunkt: Karlsplatz 21 · Karlsplatz, München. Auf dem Weg · Kunstareal. Auf dem Weg · Odeonsplatz.",
+          "query": "\"Karlsplatz, München\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "Restaurants Karlsplatz, München | In der Nähe & Umgebung finden",
+          "url": "https://www.meinestadt.de/muenchen/stadtplan/restaurants/karlsplatz",
+          "snippet": "Alle Orte in Karlsplatz, München. Karlsplatz in München · Veranstaltungen in München · Hotel in München · Outdoor-Themen München · Polizeibericht München.",
+          "query": "\"Karlsplatz, München\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        },
+        {
+          "title": "Lampen hi-res stock photography and images - Alamy",
+          "url": "https://www.alamy.com/stock-photo/lampen.html",
+          "snippet": "Der Viadukt in Altenbeken bei Einbruch der Dämmerung Stock Photo. RM 2C8CR99 ... Osram Werbung, Karlsplatz, Muenchen, Bayern, Deutschland Stock Photo. RF ...",
+          "query": "\"Karlsplatz, München\" (Polizeibericht OR Einbruch OR Vandalismus)"
+        }
+      ],
+      "business": [
+        {
+          "title": "Virtuelles Büro zur Miete in Karlsplatz, München Altstadt - MatchOffice.de",
+          "url": "https://www.matchoffice.de/mieten/virtual_office/muenchen-altstadt/karlsplatz-146830",
+          "snippet": "Оцінка 4,0(204)Virtuelles Büro zur Miete in Karlsplatz, München Altstadt. Verifiziertes Mietangebot. ab 239 €. Monatliche Miete. Erfahre mehr über das Mietobjekt. 100 ...",
+          "query": "\"Karlsplatz, München\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "Miete Büroräum in München Karlsplatz 3, 80335 München Altstadt",
+          "url": "https://www.allebusinesscenter.de/buero/deutschland/fake-province/muenchen/muenchen-altstadt/karlsplatz-146829",
+          "snippet": "Finden am besten Büroräum zu Miete mit 10 bis 100 m² in einer guten gegend von München ... Karlsplatz, München Altstadt.",
+          "query": "\"Karlsplatz, München\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "Karlsplatz 3, Büro mieten in München Altstadt - MatchOffice.de",
+          "url": "https://www.matchoffice.de/mieten/buro/muenchen-altstadt/karlsplatz-146829",
+          "snippet": "Оцінка 4,5(203)Büro zur Miete in Karlsplatz, München Altstadt. Verifiziertes Mietangebot. 11 - 16 m². Fläche. 1 - 2. Personen. 1.320 €. Jährliche Kosten pro m². Details ...",
+          "query": "\"Karlsplatz, München\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "1A-Lage, München: Neuhauser Straße - JLL Gewerbeimmobilien",
+          "url": "https://gewerbeimmobilien.jll.de/profile/detail/1-a-lage-neuhauser-stra%C3%9Fe",
+          "snippet": "Ø-Miete. euro icon. siehe 0 passende Mietobjekte. *Durchschnittspreis auf ... Lauf - Neuhauser Strasse - Karlsplatz, München. Loading 3D Tour. Please wait ...",
+          "query": "\"Karlsplatz, München\" (Miete OR Gewerbefläche OR Leerstand)"
+        },
+        {
+          "title": "Цены на каток Münchner Eiszauber на Karlsplatz - TikTok",
+          "url": "https://www.tiktok.com/@antonina_in_de/video/7577490669803982102",
+          "snippet": "27 лист. 2025 р. · ... Karlsplatz, München #münchen #germany #winter #travel · Twinkling ... ✨ #wohnung #miete #kleinanzeigen #möbel #komissionsladen · Candle ...",
+          "query": "\"Karlsplatz, München\" (Miete OR Gewerbefläche OR Leerstand)"
+        }
+      ],
+      "infrastructure": [
+        {
+          "title": "Polizei München (@PolizeiMuenchen) / Posts / X",
+          "url": "https://twitter.com/PolizeiMuenchen",
+          "snippet": "Aufgrund von Abbrucharbeiten der Brücke Fürstenrieder Straße über der A 96 kommt es im Zeitraum vom 3. Juni, 22 Uhr, bis Montag, 8. Juni, 5 Uhr, zur Sperrung ...",
+          "query": "site:twitter.com \"Karlsplatz, München\" (baustelle OR sperrung OR verkehr)"
+        },
+        {
+          "title": "CSU-FW-Fraktion im Münchner Stadtrat (@CSUimRathaus) / Posts / X",
+          "url": "https://twitter.com/csuimrathaus?lang=bg",
+          "snippet": "Der Bereich Hauptbahnhof - Alter Botanischer Garten - Karlsplatz muss wieder sicher werden. Und das so schnell wie möglich! Wir fordern deshalb den Einsatz ...",
+          "query": "site:twitter.com \"Karlsplatz, München\" (baustelle OR sperrung OR verkehr)"
+        },
+        {
+          "title": "geOps (@geOps) / Posts / X - Twitter",
+          "url": "https://twitter.com/geops",
+          "snippet": "Wir freuen uns auf die #ZukunftNahverkehr | #ZNV23 vom 4. bis 9. September in Berlin. Treffen Sie uns auf dem „Marktplatz“ am Stand 29.",
+          "query": "site:twitter.com \"Karlsplatz, München\" (baustelle OR sperrung OR verkehr)"
+        },
+        {
+          "title": "\"#Furrytram\" - Results on X | Live Posts & Updates",
+          "url": "https://twitter.com/hashtag/Furrytram?src=hashtag_click",
+          "snippet": "Guten Morgen und vielen lieben Dank für diese Erinnerung an eine unvergessliche Sonderfahrt mit der #furrytram. Ihr seid einfach meeega und ich hatte ...",
+          "query": "site:twitter.com \"Karlsplatz, München\" (baustelle OR sperrung OR verkehr)"
+        },
+        {
+          "title": "Sebastian Kück (@SebastianKueck) / Posts / X - Twitter",
+          "url": "https://twitter.com/sebastiankueck?lang=cs",
+          "snippet": "München stimmt für Olympia – und das ist großartig. Ein starkes Signal und ... Bitte nutzen Sie zum Ein- oder Ausstieg die Halte Hackerbrücke oder Karlsplatz.",
+          "query": "site:twitter.com \"Karlsplatz, München\" (baustelle OR sperrung OR verkehr)"
+        },
+        {
+          "title": "Fahrbahnsanierung am Stachus: Einschränkungen für Fußgänger ...",
+          "url": "https://www.radiogong.de/news/stachus-karlsplatz-muenchen-sanierung-fahrbahn-fussgaenger-ueberquerung-umleitung-autos-november-2025-24-28/5294972",
+          "snippet": "24 лист. 2025 р. · Die Maßnahme sorgt für Verzögerungen: Fußgänger und Radfahrer können die Querung während der Bauarbeiten nicht nutzen. Auch der Autoverkehr ist ...",
+          "query": "\"Karlsplatz, München\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "Kaufhaus Karlsplatz München - Söll Gerüstbau",
+          "url": "https://www.soell.de/post/dein-titel-wer-bist-du-und-welches-leckere-gericht-zauberst-du-3",
+          "snippet": "Kaufhaus Karlsplatz München ... Das Projekt stellte uns vor einzigartige Herausforderungen. Besonders die Gründungssituation im belebten Fußgängerbereich ...",
+          "query": "\"Karlsplatz, München\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "Verwaltungsgebäude - München - D-LightVision",
+          "url": "https://www.d-lightvision.de/de/verwaltungsgebaeude.html",
+          "snippet": "Bayrische Versorgungskammer, Karlsplatz München Sanierung + Umbau für Flur und Treppenhausanlage (6 Etagen) Kunstlichtplanung Lph.1-8. Architekt : Högl ...",
+          "query": "\"Karlsplatz, München\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "Без назви",
+          "url": "https://www.bauwelt.de/sitemaps/images/images-2016-10.xml",
+          "snippet": "... Karlsplatz München, Westseite, mit dem „Königshof“. Das im Lauf von hundert Jahren immer wie der um gebaute Hotel soll einem Neubau weichen. '; http://www ...",
+          "query": "\"Karlsplatz, München\" (Straßenbau OR Sanierung OR Umleitung)"
+        },
+        {
+          "title": "Geschäftshaus Karlsplatz 3 - München - FritschCo",
+          "url": "https://fritschco.de/portfolio/karlsplatz/",
+          "snippet": "8 вер. 2019 р. · Karlsplatz – München · Geschäftshaus mit Büro-/Praxis- und Einzelhandelsflächen am Altstadtring, direkt am Stachus · Projekt Beschreibung · Projekt ...",
+          "query": "\"Karlsplatz, München\" (Straßenbau OR Sanierung OR Umleitung)"
+        }
+      ]
+    }
+  }
+}
